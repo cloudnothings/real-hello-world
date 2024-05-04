@@ -23,7 +23,7 @@ export default function Home() {
           <input className="text-black" value={value} onChange={(e) => setValue(e.target.value)}>
           </input>
           <div>
-            Image Link
+            Image Link (sorry but you have to find the url urself)
           </div>
           <input className="text-black" value={link} onChange={(e) => setLink(e.target.value)}>
           </input>
